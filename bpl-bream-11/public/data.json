@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Virat Kohli",
+    "country": "India",
+    "type": "Batsman",
+    "rating": 95,
+    "batStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "price": 1500000,
+    "playerImage": "https://i.ibb.co.com/8gsCpZwz/Shakib.jpg"
+  },
+  {
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "type": "Batsman",
+    "rating": 93,
+    "batStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 1400000,
+    "playerImage": "https://i.ibb.co.com/8gsCpZwz/Shakib.jpg"
+  },
+  {
+    "name": "Joe Root",
+    "country": "England",
+    "type": "Batsman",
+    "rating": 91,
+    "batStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 1350000,
+    "playerImage": "https://i.ibb.co.com/8gsCpZwz/Shakib.jpg"
+  },
+  {
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "type": "Batsman",
+    "rating": 92,
+    "batStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 1380000,
+    "playerImage": "https://i.ibb.co.com/8gsCpZwz/Shakib.jpg"
+  },
+  {
+    "name": "Steve Smith",
+    "country": "Australia",
+    "type": "Batsman",
+    "rating": 94,
+    "batStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "price": 1450000,
+    "playerImage": "https://i.ibb.co.com/8gsCpZwz/Shakib.jpg"
+  },
+  {
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "type": "All-rounder",
+    "rating": 90,
+    "batStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm orthodox",
+    "price": 1300000,
+    "playerImage": "https://i.ibb.co.com/8gsCpZwz/Shakib.jpg"
+  },
+  {
+    "name": "Ben Stokes",
+    "country": "England",
+    "type": "All-rounder",
+    "rating": 89,
+    "batStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "price": 1250000,
+    "playerImage": "https://i.ibb.co.com/8gsCpZwz/Shakib.jpg"
+  },
+  {
+    "name": "Hardik Pandya",
+    "country": "India",
+    "type": "All-rounder",
+    "rating": 87,
+    "batStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "price": 1200000,
+    "playerImage": "https://i.ibb.co.com/8gsCpZwz/Shakib.jpg"
+  },
+  {
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "type": "Bowler",
+    "rating": 91,
+    "batStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm legbreak googly",
+    "price": 1350000,
+    "playerImage": "https://i.ibb.co.com/8gsCpZwz/Shakib.jpg"
+  },
+  {
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "type": "Bowler",
+    "rating": 92,
+    "batStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": 1400000,
+    "playerImage": "https://i.ibb.co.com/8gsCpZwz/Shakib.jpg"
+  },
+  {
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "type": "Bowler",
+    "rating": 88,
+    "batStyle": "Right-hand bat",
+    "bowlingStyle": "Left-arm fast-medium",
+    "price": 1150000,
+    "playerImage": "https://i.ibb.co.com/8gsCpZwz/Shakib.jpg"
+  },
+  {
+    "name": "Mitchell Starc",
+    "country": "Australia",
+    "type": "Bowler",
+    "rating": 90,
+    "batStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast",
+    "price": 1300000,
+    "playerImage": "https://i.ibb.co.com/8gsCpZwz/Shakib.jpg"
+  },
+  {
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "type": "Wicketkeeper",
+    "rating": 88,
+    "batStyle": "Left-hand bat",
+    "bowlingStyle": "None",
+    "price": 1100000,
+    "playerImage": "https://i.ibb.co.com/8gsCpZwz/Shakib.jpg"
+  },
+  {
+    "name": "Jos Buttler",
+    "country": "England",
+    "type": "Wicketkeeper",
+    "rating": 89,
+    "batStyle": "Right-hand bat",
+    "bowlingStyle": "None",
+    "price": 1200000,
+    "playerImage": "https://i.ibb.co.com/8gsCpZwz/Shakib.jpg"
+  },
+  {
+    "name": "MS Dhoni",
+    "country": "India",
+    "type": "Wicketkeeper",
+    "rating": 91,
+    "batStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "price": 1250000,
+    "playerImage": "https://i.ibb.co.com/8gsCpZwz/Shakib.jpg"
+  }
+]
