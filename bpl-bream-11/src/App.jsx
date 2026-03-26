@@ -17,6 +17,7 @@ function App() {
       <Suspense fallback={<p>Loading.........</p>}>
         <Players fetchPlayer={fetchPlayer}></Players>
       </Suspense>
+      
     </>
   );
 }
