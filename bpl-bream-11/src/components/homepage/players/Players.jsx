@@ -1,23 +1,8 @@
-// import React, { use } from 'react';
-// import AvailablePlayers from '../../availablePlayers/AvailablePlayers';
 
-// const Players = ({fetchPlayer}) => {
-//     const player = use(fetchPlayer);
-//     console.log(player);
-
-//     return (
-//         <div className='container mx-auto'>
-//             Players: {player.length}
-//             <AvailablePlayers Players={Players}></AvailablePlayers>
-//         </div>
-//     );
-// };
-
-// export default Players;
 import React, { use, useState } from "react";
 import AvailablePlayers from "../../availablePlayers/AvailablePlayers";
 
-const Players = ({ fetchPlayer }) => {
+const Players = ({ fetchPlayer,setCoin, coin }) => {
   // use(fetchPlayer) দিয়ে ডেটা রেজলভ করা হচ্ছে
   const playersData = use(fetchPlayer);
   const [selectedType, setSelectedType] = useState("Available");
@@ -41,7 +26,7 @@ const Players = ({ fetchPlayer }) => {
         </div>
       </div>
 
-      {selectedType === "Available"? <AvailablePlayers allPlayers={playersData}></AvailablePlayers>:<selectedPlayers></selectedPlayers>}
+      {selectedType === "Available"? <AvailablePlayers allPlayers={playersData} setCoin={setCoin} coin={coin} ></AvailablePlayers>:<selectedPlayers></selectedPlayers>}
     </div>
   );
 };

@@ -9,13 +9,13 @@ const fetchPlayer = fetch("/data.json")
   .then(res => res.json())
 function App() {
   
-
+  const [coin,setCoin] = useState(10000000)
   return (
     <>
-      <NavBar></NavBar>
+      <NavBar coin={coin}></NavBar>
       <Banner></Banner>
       <Suspense fallback={<p>Loading.........</p>}>
-        <Players fetchPlayer={fetchPlayer}></Players>
+        <Players fetchPlayer={fetchPlayer} setCoin={setCoin} coin={coin}></Players>
       </Suspense>
       
     </>
